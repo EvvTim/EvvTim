@@ -1,7 +1,7 @@
 # Hi. I’m Yauheni, nice to meet you 👋
 Recently, I was completely absorbed by the world of coding. I am interested in Front-End, it is my passion. I am currently looking for my first job or internship as a Junior Front-end Developer.
 
-##Contacts:
+## Contacts:
 [GitHub](https://github.com/EvvTim)
 
 <!--
