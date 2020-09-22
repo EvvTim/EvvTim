@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi. I’m Yauheni, nice to meet you 👋
 
 <!--
 **EvvTim/EvvTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
