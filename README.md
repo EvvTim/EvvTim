@@ -2,8 +2,10 @@
 Recently, I was completely absorbed by the world of coding. I am interested in Front-End, it is my passion. I am currently looking for my first job or internship as a Junior Front-end Developer.
 
 ## Contacts:
-[GitHub](https://github.com/EvvTim)
-
+[GitHub](https://github.com/EvvTim) |
+[Linkedin](https://www.linkedin.com/in/yauheni-tsimashchuk/) |
+[E-mail](evgeniytim94@gmail.com) |
+[Facebook](https://www.facebook.com/evvtim)
 <!--
 **EvvTim/EvvTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
