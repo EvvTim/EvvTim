@@ -9,7 +9,7 @@ Recently, I was completely absorbed by the world of coding. I am interested in F
 [GitHub](https://github.com/EvvTim) |
 [Linkedin](https://www.linkedin.com/in/yauheni-tsimashchuk/) |
 [E-mail](mailto:evgeniytim94@gmail.com) |
-[Facebook](https://www.facebook.com/evvtim)
+[Facebook](https://www.facebook.com/evvtim) |
 [Codepen](https://codepen.io/evvtim)
 <!--
 **EvvTim/EvvTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
