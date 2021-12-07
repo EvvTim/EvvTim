@@ -30,7 +30,7 @@ You can find me [Linkedin](https://www.linkedin.com/in/yauheni-tsimashchuk/)
 [Portfolio](https://evvtim.github.io/portfolio/) |
 [Codepen](https://codepen.io/evvtim)
 
-
+## GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EvvTim&show_icons=true&count_private=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvvTim&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
