@@ -1,2 +1,2 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvvTim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![diddy-kong-donkey-kong](https://github.com/user-attachments/assets/ac9378da-3a3c-4c96-a745-1203146442f5)
